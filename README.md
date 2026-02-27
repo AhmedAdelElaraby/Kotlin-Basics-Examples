@@ -31,4 +31,28 @@ Each concept is explained in a separate file with clear examples.
 
 ## 🛠 How to Run
 
-1. Clone the repository:
+1. Clone the repository: git clone https://github.com/AhmedAdelElaraby/Kotlin-Basics-Examples.git
+2. Open the project in IntelliJ IDEA or Android Studio.
+3. Run any `.kt` file to see the output.
+
+---
+
+## 🎯 Goal of This Repository
+
+- Practice Kotlin fundamentals
+- Build strong programming basics
+- Create a clean learning reference
+- Improve GitHub portfolio structure
+
+---
+
+## 💡 Best Practice
+
+Always use `val` by default, and use `var` only when the value needs to change.
+
+---
+
+## 📌 Author
+
+Ahmed Elaraby  – Android Developer  
+Learning Kotlin step by step 🚀
