@@ -6,7 +6,7 @@
     // Read-only variables with val
    //  Mutable variables with var
 
-                                 // For example:
+     // For example:
 
       val box = 10       /*  val stands for value.
                              It creates a read-only (immutable) variable.
